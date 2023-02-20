@@ -31,3 +31,7 @@ def password(request):
     return render(request, 'generator/password.html', {'password': thepassword})
 
 
+
+# git stash is to remove what u've done lately
+
+
